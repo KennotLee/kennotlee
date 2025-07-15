@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hello!
 
-<!--
+### About me
+I am trying to **cook up things**
+Not really a fan of making WIP projects public especially in early stages but one should be coming up very soon ^(citation needed)
+ <!--
 **KennotLee/kennotlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
